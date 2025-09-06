@@ -1,0 +1,36 @@
+哈喽 大家好 我是夜羽萧轩!  
+
+番茄短故事主页   
+暂时还没找到   
+大家可以去番茄APP关注我！  
+
+知乎主页  
+https://www.zhihu.com/people/wang-bo-liang-11
+
+
+
+PS：是本人    
+真的是本人！
+
+
+    只求点赞 
+    千万不要举报哈！   
+
+
+# 知乎短文·数据
+
+![alt text](image-2.png)
+![alt text](image-4.png)
+![alt text](image-3.png)
+
+
+# 番茄短篇数据
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+# 23 血脉掠夺：别跑，我吸血鬼女王真不是故意的呀！
+https://fanqienovel.com/main/writer/preview-short/7546883399495975448
+
+
