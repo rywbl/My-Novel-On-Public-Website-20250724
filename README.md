@@ -5,16 +5,24 @@
 大家可以去番茄APP关注我！  
 
 知乎主页  
-https://www.zhihu.com/people/wang-bo-liang-11
+https://www.zhihu.com/people/rywbl
 
 
 
 PS：是本人    
 真的是本人！
 
+# 百家号   
+
+
+
 
     只求点赞 
-    千万不要举报哈！   
+    千万不要举报哈！ 
+    呜呜呜，谁举报了我 
+    被禁言了
+    淦！ 
+    2025年10月11日09点10分  
 
 
 # 知乎短文·数据
