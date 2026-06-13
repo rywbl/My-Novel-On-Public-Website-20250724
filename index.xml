@@ -1,0 +1,35 @@
+<root>
+    <item>
+        <name>小说</name>
+        <description>这是我的小说
+            <publicationArea>番茄</publicationArea>
+            <publicationArea>同人网站</publicationArea>
+        </description>
+    </item>
+    <item>
+        <name>短故事</name>
+        <description>短故事
+            <publicationArea>番茄
+                <files>
+                    <file "location" = "番茄短故事-已发布/00 七绝山妖录：蟒姬劫01.md"  >00 七绝山妖录：蟒姬劫01.md</file>
+  
+                </files>
+            </publicationArea>
+            
+            <publicationArea>知乎</publicationArea>
+        </description>
+    </item>
+    <item>
+        <name>AI故事</name>
+        <description>AI 故事
+            <publicationArea>B站</publicationArea>
+        </description>
+    </item>
+    <item>
+        <name>故事创作中</name>
+        <description>短故事
+            <publicationArea>No Public</publicationArea>
+        </description>
+    </item>
+
+</root>  
