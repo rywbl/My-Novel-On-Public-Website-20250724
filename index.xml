@@ -200,11 +200,62 @@
             <publicationArea>B站</publicationArea>
         </description>
     </item>
-    <item>
+  <item>
         <name>故事创作中</name>
         <description>短故事
             <publicationArea>No Public</publicationArea>
+            <topic> 
+                血凤途穷系列
+                <Closed>  
+                    <chapter>第一章</chapter> 
+                    <file location="血凤途穷系列/01-中秋夜宴.md" title="中秋夜宴" words="1823" date="6/14">01-中秋夜宴.md</file>
+                    <file location="血凤途穷系列/02-十七重红.md" title="十七重红" words="1699" date="6/14">02-十七重红.md</file>
+                    <file location="血凤途穷系列/03-月下红衣辞瑶华.md" title="月下红衣辞瑶华" words="1464" date="6/14">03-月下红衣辞瑶华.md</file>
+                    <file location="血凤途穷系列/04-金盏凝光杯酒砺心.md" title="金盏凝光，杯酒砺心" words="1616" date="6/14">04-金盏凝光杯酒砺心.md</file>
+                    <file location="血凤途穷系列/05-盏底谋局威仪千钧.md" title="盏底谋局，威仪千钧" words="1072" date="6/14">05-盏底谋局威仪千钧.md</file>
+                    <file location="血凤途穷系列/06-桂香入盏杀局无声.md" title="桂香入盏，杀局无声" words="1665" date="6/14">06-桂香入盏杀局无声.md</file>
+                    <file location="血凤途穷系列/07-杯酒定局踏月赴宴.md" title="杯酒定局，踏月赴宴" words="1323" date="6/14">07-杯酒定局踏月赴宴.md</file>
+                    <file location="血凤途穷系列/08-金殿笙歌凤刃藏锋.md" title="金殿笙歌，凤刃藏锋" words="1785" date="6/14">08-金殿笙歌凤刃藏锋.md</file>
+                    <file location="血凤途穷系列/09-丹陛一语宴上藏锋.md" title="丹陛一语，宴上藏锋" words="1640" date="6/14">09-丹陛一语宴上藏锋.md</file>
+
+                    <file location="血凤途穷系列/10-宴阑毒潜夜叩乾清.md" title="宴阑毒潜，夜叩乾清" words="1310" date="6/14">10-宴阑毒潜夜叩乾清.md</file>
+                    <file location="血凤途穷系列/11-月照龙床一语摊牌.md" title="月照龙床，一语摊牌" words="1478" date="6/14">11-月照龙床一语摊牌.md</file>
+                    <file location="血凤途穷系列/12-榻前终语江山一诺.md" title="榻前终语，江山一诺" words="1244" date="6/14">12-榻前终语江山一诺.md</file>
+                    <file location="血凤途穷系列/13-云压乾清双凤对锋.md" title="云压乾清，双凤对锋" words="1347" date="6/14">13-云压乾清双凤对锋.md</file>
+                    <file location="血凤途穷系列/14-唇锋藏剑双凤争乾.md" title="唇锋藏剑，双凤争乾" words="3124" date="6/14">14-唇锋藏剑双凤争乾.md</file>
+                    <file location="血凤途穷系列/15-凤宫灯灭双影交锋.md" title="凤宫灯灭，双影交锋" words="1827" date="6/14">15-凤宫灯灭双影交锋.md</file>
+                    <file location="血凤途穷系列/16-影乱千招月照残宫.md" title="影乱千招，月照残宫" words="1450" date="6/14">16-影乱千招月照残宫.md</file>
+                    <file location="血凤途穷系列/17-残殿凤归座上余威.md" title="残殿凤归，座上余威" words="1548" date="6/14">17-残殿凤归座上余威.md</file>
+                    <file location="血凤途穷系列/18-凤座余咒红衣尊别.md" title="凤座余咒，红衣尊别" words="3379" date="6/14">18-凤座余咒红衣尊别.md</file>          
+                    <file location="血凤途穷系列/19-凤钗留余.md" title="凤钗留余" words="1808" date="6/14">19-凤钗留余.md</file>
+                    <file location="血凤途穷系列/20-旧影长行.md" title="旧影长行" words="1528" date="6/14">20-旧影长行.md</file>
+                    <file location="血凤途穷系列/21-残殿旧影红衣新朝.md" title="残殿旧影，红衣新朝" words="1153" date="6/14">21-残殿旧影红衣新朝.md</file>
+                    <file location="血凤途穷系列/22-紫宸开新朝龙章印旧血.md" title="紫宸开新朝，龙章印旧血" words="1639" date="6/14">22-紫宸开新朝龙章印旧血.md</file>
+                    <file location="血凤途穷系列/23-惊鸿定新姓龙座待寒锋.md" title="惊鸿定新姓，龙座待寒锋" words="1128" date="6/14">23-惊鸿定新姓龙座待寒锋.md</file>
+                    <file location="血凤途穷系列/24-凤椅枯骨月钗留谶.md" title="凤椅枯骨，月钗留谶" words="1533" date="6/14">24-凤椅枯骨月钗留谶.md</file>
+                </Closed>
+                <Person>
+                    司空红药
+                    <duishou>
+                         凤后 皇帝的丈夫 但是也正是因为贵妃谋杀了皇帝 两人走到了对立面 第一次剧情冲突点 不可调节的矛盾
+                    </duishou>
+                    <dangluren>
+                        萧景渊 前朝皇帝 主角上位的垫脚石 昏君 路人
+                    </dangluren>
+                    <shinv>
+                        青禾 贵妃的侍女
+                    </shinv>    
+                    <lurennpc>
+                        1. 御膳房众人 3~5人 无名小辈
+                    </lurennpc>
+                </Person>
+            </topic>
         </description>
     </item>
+    <thinks>
+        罪恶都市的想法 这个和之前的任神之城的想法大同小异
+        所有的NPC来自于主人物 相关的人物 一个人可以关联许多人
+        不同的人拥有不同的权限
+    </thinks>
 
 </root>  
